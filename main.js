@@ -56,7 +56,7 @@ numberMayor (55, 100)
      }    
  }
 
-// wordPrint('Hola, como estas?', 7);
+wordPrint('Hola, como estas?', 7);
 
 // 6 - Crear una función que reciba un array por parámetro e imprima por consola todos los valores de ese array.
 
